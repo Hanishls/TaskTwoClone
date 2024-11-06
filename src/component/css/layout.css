@@ -1,0 +1,75 @@
+.bacgroundcolour{
+    bacground-colour:#00CC66;
+}
+.img{
+    width:300px;
+    margin-left:90px
+}
+.padingLayout{
+    padding-top:40px;
+}
+h1{
+    font-size:100px;
+    font-weight: bold;
+    padding-left:130px;
+}
+/* h3{
+    font-size:50px;
+    font-weight: bold;
+    padding-left:130px;
+} */
+.para{
+    padding-left:150px;
+}
+.groupimg{
+    width:400px;
+    left:50px
+}
+.grpImg{
+    margin-top:8px
+}
+.button-pill {
+    padding:20px;
+    padding-left:50px;
+    padding-right:50px;
+
+    border-radius: 100px;
+  }
+.btnn{
+    margin-top:100px
+}
+.personImg{
+    width:700px;
+    padding-top:100px;
+    padding-left:150px;
+    /* margin-left:10px; */
+}
+.borderbox{
+    width: 550px;
+    height: 425px;
+    padding: 50px;
+    padding-top:120px;
+    background-color: #fdfffc;
+    color:black;
+    margin: 10px;
+    box-sizing: border-box
+}
+.contenbox{
+    margin-right:100px;
+    width:500px;
+    padding-top:90px;
+    padding-left:90px
+}
+.bacground{
+    background-image:url("../assets/bacgroundImg.avif");
+    background-size:100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
+
+.btn-light:hover {
+    background-color: #00CC66;
+    border-color: #FFFFFF; 
+  }
+  
